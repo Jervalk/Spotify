@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+        integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+    <script src="./song.js"></script>
+    <script src="./player.js"></script>
+    <script src="./queue.js"></script>
+    <script src="./script.js"></script>
+</head>
+
+<body>
+
+    <div id="container">
+
+        <!-- Menu area -------------------------------------------------------->
+        <div  id="menu">
+            <div class="menu-title"><i class="fas fa-music"></i> Spotify++</div>
+            <div class="menu-items">
+                <a href="" class="menu-item selected"><i class="fas fa-home"></i> Home</a>
+                <a href="" class="menu-item"><i class="fas fa-search"></i> Search</a>
+                <a href="" class="menu-item"><i class="fas fa-book"></i> Your Library</a>
+                <a href="" class="menu-item"><i class="fas fa-users"></i> Your Artists</a>
+                <a href="" class="menu-item"><i class="fas fa-compact-disc"></i> Your Albums</a>
+                <a href="" class="menu-item"><i class="fas fa-music"></i> Your Musics</a>
+                <a href="" class="menu-item"><i class="fas fa-book"></i> Your Playlists</a>
+            </div>
+        </div>
+
+        <!-- Main area ------------------------------------------------------->
+        <div id="main">
+
+            <div id="content">
+
+                <!-- A main area section -->
+                <section>
+
+                    <!-- section title -->
+                    <h2 class="title">Recently played</h2>
+
+                    <!-- section content -->
+                    <div class="content grid">
+                        <article class="song" data-src="songs/song-1.mp3">
+                            <img class="song-cover" src="covers/cover-1.jpg" /></a>
+                            <p class="song-title">Far from Any Road</p>
+                            <p class="song-artist">The Handsome Family</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+
+                        <article class="song" data-src="songs/song-2.mp3">
+                            <img class="song-cover" src="covers/cover-2.jpg" /></a>
+                            <p class="song-title">White Rabbit</p>
+                            <p class="song-artist">Jefferson Airplane</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+
+                        <article class="song" data-src="songs/song-3.flac">
+                            <img class="song-cover" src="covers/cover-3.jpg" /></a>
+                            <p class="song-title">You know I'm No Good</p>
+                            <p class="song-artist">Amy Winehouse</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+
+                        <article class="song" data-src="songs/song-4.mp3">
+                            <img class="song-cover" src="covers/cover-4.jpg" /></a>
+                            <p class="song-title">Spanish Caravan</p>
+                            <p class="song-artist">The Doors</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+
+                        <article class="song" data-src="songs/song-5.mp3">
+                            <img class="song-cover" src="covers/cover-5.jpg" /></a>
+                            <p class="song-title">Les Yeux Noirs</p>
+                            <p class="song-artist">Django Reinhart</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+                    </div>
+                </section>
+
+                <!-- Another main area section -->
+                <section>
+
+                    <!-- section title -->
+                    <h2 class="title">Liked</h2>
+
+                    <!-- section content -->
+                    <div class="content grid">
+                        <article class="song" data-src="songs/song-5.mp3">
+                            <img class="song-cover" src="covers/cover-5.jpg" /></a>
+                            <p class="song-title">Les Yeux Noirs</p>
+                            <p class="song-artist">Django Reinhart</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+
+                        <article class="song" data-src="songs/song-4.mp3">
+                            <img class="song-cover" src="covers/cover-4.jpg" /></a>
+                            <p class="song-title">Spanish Caravan</p>
+                            <p class="song-artist">The Doors</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+
+                        <article class="song" data-src="songs/song-3.flac">
+                            <img class="song-cover" src="covers/cover-3.jpg" /></a>
+                            <p class="song-title">You know I'm No Good</p>
+                            <p class="song-artist">Amy Winehouse</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+
+                        <article class="song" data-src="songs/song-2.mp3">
+                            <img class="song-cover" src="covers/cover-2.jpg" /></a>
+                            <p class="song-title">White Rabbit</p>
+                            <p class="song-artist">Jefferson Airplane</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+
+                        <article class="song" data-src="songs/song-1.mp3">
+                            <img class="song-cover" src="covers/cover-1.jpg" /></a>
+                            <p class="song-title">Far from Any Road</p>
+                            <p class="song-artist">The Handsome Family</p>
+                            <button class="queue-insert-play"><i class="fas fa-play-circle"></i></button>
+                            <button class="queue-add"><i class="fas fa-plus-circle"></i></button>
+                        </article>
+                    </div>
+                </section>
+            </div>
+
+
+            <!-- Queue section -->
+            <div id="queue">
+                <!-- section title -->
+                <h2 class="title">Queue</h2>
+
+                <!-- section content -->
+                <div class="content list">
+                    <div class="queue-drop-position"></div>
+
+
+                </div>
+            </div>
+
+
+        </div>
+
+        <!-- Controls area --------------------------------------------------->
+        <div id="controls">
+            <div class="song">
+                <a href=""><img class="song-cover" src="" /></a>
+                <div class="song-description">
+                    <a href="" class="song-title"></a>
+                    <a href="" class="song-artist"></a>
+                </div>
+                <i class="song-like fas fa-heart"></i>
+            </div>
+            <div id="controls-buttons">
+                <button><i class="fas fa-random"></i></button>
+                <button><i id="prevButton" class="fas fa-step-backward"></i></button>
+                <button><i id="playPauseButton" class="fas fa-play-circle big"></i></button>
+                <button><i id="nextButton" class="fas fa-step-forward"></i></button>
+                <button><i class="fas fa-redo"></i></button>
+            </div>
+            <div id="controls-progress">
+                <audio controls></audio>
+            </div>
+            <div id="controls-menu">
+                <button id="toggle-queue-button"><i class="fas fa-list"></i></button>
+                <button><i class="fas fa-cog"></i></button>
+                <button><i class="fas fa-volume-up"></i></button>
+                <input type="range" />
+            </div>
+        </div>
+
+    </div>
+
+
+    <div id="templates">
+
+        <article class="song queue-item-template" data-src="" draggable="true">
+            <p class="song-number"></p>
+            <img class="song-cover" src="" draggable="false"/>
+            <div class="song-description">
+                <p href="" class="song-title"></p>
+                <a href="" class="song-artist" draggable="false"></a>
+            </div>
+            <a href="" class="song-album" draggable="false">Album</a>
+            <p class="song-duration">?:??</p>
+            <button class="queue-play"><i class="fas fa-play-circle"></i></button>
+            <button class="queue-remove"><i class="fas fa-times-circle"></i></button>
+        </article>
+
+    </div>
+
+
+</body>
+
+</html>

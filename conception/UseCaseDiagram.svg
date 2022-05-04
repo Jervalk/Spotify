@@ -1,0 +1,1881 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="899.22998046875"
+   height="1340"
+   id="svg1136"
+   sodipodi:docname="UseCaseDiagram.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <metadata
+     id="metadata1140">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     id="namedview1138"
+     showgrid="false"
+     inkscape:zoom="0.75223881"
+     inkscape:cx="449.61499"
+     inkscape:cy="670"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g1134" />
+  <defs
+     id="defs2" />
+  <g
+     id="g1134">
+    <g
+       transform="translate(-293,2)"
+       id="g456">
+      <rect
+         fill="#c0c0c0"
+         stroke="none"
+         x="455"
+         y="15"
+         width="552"
+         height="1320"
+         opacity="0.2"
+         id="rect454" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g460">
+      <rect
+         fill="#ffffff"
+         stroke="none"
+         x="448"
+         y="8"
+         width="552"
+         height="1320"
+         id="rect458" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g464">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 448,8 h 552 V 1328 H 448 Z"
+         stroke-miterlimit="10"
+         id="path462" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g472">
+      <g
+         id="g470">
+        <path
+           fill="none"
+           stroke="none"
+           id="path466"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="676.31641"
+           y="27.5"
+           id="text468"
+           style="text-decoration:none;text-decoration-line:none">spotify-en-mieux</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g476">
+      <rect
+         fill="#c0c0c0"
+         stroke="none"
+         x="511"
+         y="727"
+         width="176"
+         height="15"
+         opacity="0.2"
+         id="rect474" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g480">
+      <rect
+         fill="#c0c0c0"
+         stroke="none"
+         x="511"
+         y="741"
+         width="440"
+         height="130"
+         opacity="0.2"
+         id="rect478" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g484">
+      <rect
+         fill="#ffebd8"
+         stroke="none"
+         x="504"
+         y="735"
+         width="440"
+         height="129"
+         id="rect482" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g488">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 504,735 H 944 V 864 H 504 Z"
+         stroke-miterlimit="10"
+         id="path486" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g492">
+      <rect
+         fill="#ffebd8"
+         stroke="none"
+         x="504"
+         y="720"
+         width="176"
+         height="15"
+         id="rect490" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g496">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 504,720 h 176 v 15 H 504 Z"
+         stroke-miterlimit="10"
+         id="path494" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g500">
+      <rect
+         fill="#ffebd8"
+         stroke="none"
+         x="504"
+         y="734"
+         width="440"
+         height="130"
+         id="rect498" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g504">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 504,734 H 944 V 864 H 504 Z"
+         stroke-miterlimit="10"
+         id="path502" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g512">
+      <g
+         id="g510">
+        <path
+           fill="none"
+           stroke="none"
+           id="path506"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="704.49048"
+           y="754.5"
+           id="text508"
+           style="text-decoration:none;text-decoration-line:none">friends</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g516">
+      <rect
+         fill="#c0c0c0"
+         stroke="none"
+         x="511"
+         y="359"
+         width="176"
+         height="15"
+         opacity="0.2"
+         id="rect514" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g520">
+      <rect
+         fill="#c0c0c0"
+         stroke="none"
+         x="511"
+         y="373"
+         width="440"
+         height="330"
+         opacity="0.2"
+         id="rect518" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g524">
+      <rect
+         fill="#ebffd8"
+         stroke="none"
+         x="504"
+         y="367"
+         width="440"
+         height="329"
+         id="rect522" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g528">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 504,367 H 944 V 696 H 504 Z"
+         stroke-miterlimit="10"
+         id="path526" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g532">
+      <rect
+         fill="#ebffd8"
+         stroke="none"
+         x="504"
+         y="352"
+         width="176"
+         height="15"
+         id="rect530" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g536">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 504,352 h 176 v 15 H 504 Z"
+         stroke-miterlimit="10"
+         id="path534" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g540">
+      <rect
+         fill="#ebffd8"
+         stroke="none"
+         x="504"
+         y="366"
+         width="440"
+         height="330"
+         id="rect538" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g544">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 504,366 H 944 V 696 H 504 Z"
+         stroke-miterlimit="10"
+         id="path542" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g552">
+      <g
+         id="g550">
+        <path
+           fill="none"
+           stroke="none"
+           id="path546"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="700.88184"
+           y="386.5"
+           id="text548"
+           style="text-decoration:none;text-decoration-line:none">playlists</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g556">
+      <rect
+         fill="#c0c0c0"
+         stroke="none"
+         x="511"
+         y="903"
+         width="176"
+         height="15"
+         opacity="0.2"
+         id="rect554" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g560">
+      <rect
+         fill="#c0c0c0"
+         stroke="none"
+         x="511"
+         y="917"
+         width="440"
+         height="370"
+         opacity="0.2"
+         id="rect558" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g564">
+      <rect
+         fill="#ebd8ff"
+         stroke="none"
+         x="504"
+         y="911"
+         width="440"
+         height="369"
+         id="rect562" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g568">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 504,911 h 440 v 369 H 504 Z"
+         stroke-miterlimit="10"
+         id="path566" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g572">
+      <rect
+         fill="#ebd8ff"
+         stroke="none"
+         x="504"
+         y="896"
+         width="176"
+         height="15"
+         id="rect570" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g576">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 504,896 h 176 v 15 H 504 Z"
+         stroke-miterlimit="10"
+         id="path574" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g580">
+      <rect
+         fill="#ebd8ff"
+         stroke="none"
+         x="504"
+         y="910"
+         width="440"
+         height="370"
+         id="rect578" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g584">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 504,910 h 440 v 370 H 504 Z"
+         stroke-miterlimit="10"
+         id="path582" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g592">
+      <g
+         id="g590">
+        <path
+           fill="none"
+           stroke="none"
+           id="path586"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="703.77637"
+           y="930.5"
+           id="text588"
+           style="text-decoration:none;text-decoration-line:none">musics</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g596">
+      <rect
+         fill="#c0c0c0"
+         stroke="none"
+         x="511"
+         y="119"
+         width="176"
+         height="15"
+         opacity="0.2"
+         id="rect594" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g600">
+      <rect
+         fill="#c0c0c0"
+         stroke="none"
+         x="511"
+         y="133"
+         width="440"
+         height="210"
+         opacity="0.2"
+         id="rect598" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g604">
+      <rect
+         fill="#d8fff8"
+         stroke="none"
+         x="504"
+         y="127"
+         width="440"
+         height="209"
+         id="rect602" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g608">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 504,127 H 944 V 336 H 504 Z"
+         stroke-miterlimit="10"
+         id="path606" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g612">
+      <rect
+         fill="#d8fff8"
+         stroke="none"
+         x="504"
+         y="112"
+         width="176"
+         height="15"
+         id="rect610" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g616">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 504,112 h 176 v 15 H 504 Z"
+         stroke-miterlimit="10"
+         id="path614" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g620">
+      <rect
+         fill="#d8fff8"
+         stroke="none"
+         x="504"
+         y="126"
+         width="440"
+         height="210"
+         id="rect618" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g624">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 504,126 H 944 V 336 H 504 Z"
+         stroke-miterlimit="10"
+         id="path622" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g632">
+      <g
+         id="g630">
+        <path
+           fill="none"
+           stroke="none"
+           id="path626"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="697.98413"
+           y="146.5"
+           id="text628"
+           style="text-decoration:none;text-decoration-line:none">accounts</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g636">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 319.40935,393.68 c 0,-4.79383 3.88584,-8.68 8.67927,-8.68 4.79343,0 8.67928,3.88617 8.67928,8.68 0,4.79383 -3.88585,8.68 -8.67928,8.68 -4.79343,0 -8.67927,-3.88617 -8.67927,-8.68 z"
+         id="path634" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g640">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 319.40935,393.68 c 0,-4.79383 3.88584,-8.68 8.67927,-8.68 4.79343,0 8.67928,3.88617 8.67928,8.68 0,4.79383 -3.88585,8.68 -8.67928,8.68 -4.79343,0 -8.67927,-3.88617 -8.67927,-8.68 z"
+         stroke-miterlimit="10"
+         id="path638" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g644">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 328.08862,402.36 v 17.28"
+         stroke-miterlimit="10"
+         id="path642" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g648">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 318.8988,408.84 h 18.37964"
+         stroke-miterlimit="10"
+         id="path646" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g652">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 328.08862,419.64 315.32499,437"
+         stroke-miterlimit="10"
+         id="path650" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g656">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 328.08862,419.64 340.85226,437"
+         stroke-miterlimit="10"
+         id="path654" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g664">
+      <g
+         id="g662">
+        <path
+           fill="none"
+           stroke="none"
+           id="path658"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="314.36499"
+           y="457.5"
+           id="text660"
+           style="text-decoration:none;text-decoration-line:none">User</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g668">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 320.40935,1113.68 c 0,-4.7938 3.88584,-8.68 8.67927,-8.68 4.79343,0 8.67928,3.8862 8.67928,8.68 0,4.7938 -3.88585,8.68 -8.67928,8.68 -4.79343,0 -8.67927,-3.8862 -8.67927,-8.68 z"
+         id="path666" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g672">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 320.40935,1113.68 c 0,-4.7938 3.88584,-8.68 8.67927,-8.68 4.79343,0 8.67928,3.8862 8.67928,8.68 0,4.7938 -3.88585,8.68 -8.67928,8.68 -4.79343,0 -8.67927,-3.8862 -8.67927,-8.68 z"
+         stroke-miterlimit="10"
+         id="path670" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g676">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 329.08862,1122.36 v 17.28"
+         stroke-miterlimit="10"
+         id="path674" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g680">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 319.8988,1128.84 h 18.37964"
+         stroke-miterlimit="10"
+         id="path678" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g684">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 329.08862,1139.64 316.32499,1157"
+         stroke-miterlimit="10"
+         id="path682" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g688">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 329.08862,1139.64 341.85226,1157"
+         stroke-miterlimit="10"
+         id="path686" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g696">
+      <g
+         id="g694">
+        <path
+           fill="none"
+           stroke="none"
+           id="path690"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="314.28271"
+           y="1177.5"
+           id="text692"
+           style="text-decoration:none;text-decoration-line:none">Artist</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g700">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 1126.4357,585.68 c 0,-4.79383 3.8859,-8.68 8.6793,-8.68 4.7934,0 8.6793,3.88617 8.6793,8.68 0,4.79383 -3.8859,8.68 -8.6793,8.68 -4.7934,0 -8.6793,-3.88617 -8.6793,-8.68 z"
+         id="path698" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g704">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 1126.4357,585.68 c 0,-4.79383 3.8859,-8.68 8.6793,-8.68 4.7934,0 8.6793,3.88617 8.6793,8.68 0,4.79383 -3.8859,8.68 -8.6793,8.68 -4.7934,0 -8.6793,-3.88617 -8.6793,-8.68 z"
+         stroke-miterlimit="10"
+         id="path702" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g708">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 1135.115,594.36 v 17.28"
+         stroke-miterlimit="10"
+         id="path706" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g712">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 1125.9252,600.84 h 18.3796"
+         stroke-miterlimit="10"
+         id="path710" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g716">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1135.115,611.64 1122.3514,629"
+         stroke-miterlimit="10"
+         id="path714" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g720">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1135.115,611.64 1147.8786,629"
+         stroke-miterlimit="10"
+         id="path718" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g728">
+      <g
+         id="g726">
+        <path
+           fill="none"
+           stroke="none"
+           id="path722"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="1096.8259"
+           y="649.5"
+           id="text724"
+           style="text-decoration:none;text-decoration-line:none">Administrator</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g732">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 354,176 213,7"
+         stroke-miterlimit="10"
+         id="path730" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g736">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 319.40935,145.68 c 0,-4.79383 3.88584,-8.68 8.67927,-8.68 4.79343,0 8.67928,3.88617 8.67928,8.68 0,4.79383 -3.88585,8.68 -8.67928,8.68 -4.79343,0 -8.67927,-3.88617 -8.67927,-8.68 z"
+         id="path734" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g740">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 319.40935,145.68 c 0,-4.79383 3.88584,-8.68 8.67927,-8.68 4.79343,0 8.67928,3.88617 8.67928,8.68 0,4.79383 -3.88585,8.68 -8.67928,8.68 -4.79343,0 -8.67927,-3.88617 -8.67927,-8.68 z"
+         stroke-miterlimit="10"
+         id="path738" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g744">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 328.08862,154.36 v 17.28"
+         stroke-miterlimit="10"
+         id="path742" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g748">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 318.8988,160.84 h 18.37964"
+         stroke-miterlimit="10"
+         id="path746" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g752">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 328.08862,171.64 315.32499,189"
+         stroke-miterlimit="10"
+         id="path750" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g756">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 328.08862,171.64 340.85226,189"
+         stroke-miterlimit="10"
+         id="path754" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g764">
+      <g
+         id="g762">
+        <path
+           fill="none"
+           stroke="none"
+           id="path758"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="310.14697"
+           y="209.5"
+           id="text760"
+           style="text-decoration:none;text-decoration-line:none">Visitor</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g768">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 354,411 590,299"
+         stroke-miterlimit="10"
+         id="path766" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g772">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1101,575 820,243"
+         stroke-miterlimit="10"
+         id="path770" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g776">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 535,288 c 0,-9.38884 44.77152,-17 100,-17 55.22848,0 100,7.61116 100,17 0,9.38884 -44.77152,17 -100,17 -55.22848,0 -100,-7.61116 -100,-17 z"
+         opacity="0.2"
+         id="path774" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g780">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 528,281 c 0,-9.38884 44.77152,-17 100,-17 55.22848,0 100,7.61116 100,17 0,9.38884 -44.77152,17 -100,17 -55.22848,0 -100,-7.61116 -100,-17 z"
+         id="path778" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g784">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 528,281 c 0,-9.38884 44.77152,-17 100,-17 55.22848,0 100,7.61116 100,17 0,9.38884 -44.77152,17 -100,17 -55.22848,0 -100,-7.61116 -100,-17 z"
+         stroke-miterlimit="10"
+         id="path782" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g792">
+      <g
+         id="g790">
+        <path
+           fill="none"
+           stroke="none"
+           id="path786"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="566.20874"
+           y="288"
+           id="text788"
+           style="text-decoration:none;text-decoration-line:none">manage own account</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g796">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 703,232 c 0,-9.38884 49.02481,-17 109.5,-17 60.47519,0 109.5,7.61116 109.5,17 0,9.38884 -49.02481,17 -109.5,17 C 752.02481,249 703,241.38884 703,232 Z"
+         opacity="0.2"
+         id="path794" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g800">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 696,225 c 0,-9.38884 49.02481,-17 109.5,-17 60.47519,0 109.5,7.61116 109.5,17 0,9.38884 -49.02481,17 -109.5,17 C 745.02481,242 696,234.38884 696,225 Z"
+         id="path798" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g804">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 696,225 c 0,-9.38884 49.02481,-17 109.5,-17 60.47519,0 109.5,7.61116 109.5,17 0,9.38884 -49.02481,17 -109.5,17 C 745.02481,242 696,234.38884 696,225 Z"
+         stroke-miterlimit="10"
+         id="path802" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g812">
+      <g
+         id="g810">
+        <path
+           fill="none"
+           stroke="none"
+           id="path806"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="737.56738"
+           y="232"
+           id="text808"
+           style="text-decoration:none;text-decoration-line:none">manage other accounts</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g816">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 575,192 c 0,-9.38884 31.78778,-17 71,-17 39.21222,0 71,7.61116 71,17 0,9.38884 -31.78778,17 -71,17 -39.21222,0 -71,-7.61116 -71,-17 z"
+         opacity="0.2"
+         id="path814" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g820">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 568,185 c 0,-9.38884 31.78778,-17 71,-17 39.21222,0 71,7.61116 71,17 0,9.38884 -31.78778,17 -71,17 -39.21222,0 -71,-7.61116 -71,-17 z"
+         id="path818" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g824">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 568,185 c 0,-9.38884 31.78778,-17 71,-17 39.21222,0 71,7.61116 71,17 0,9.38884 -31.78778,17 -71,17 -39.21222,0 -71,-7.61116 -71,-17 z"
+         stroke-miterlimit="10"
+         id="path822" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g832">
+      <g
+         id="g830">
+        <path
+           fill="none"
+           stroke="none"
+           id="path826"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="596.36279"
+           y="192"
+           id="text828"
+           style="text-decoration:none;text-decoration-line:none">create account</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g836">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 1105,656 817,1055"
+         stroke-miterlimit="10"
+         id="path834" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g840">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 355,1144 332,19"
+         stroke-miterlimit="10"
+         id="path838" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g844">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 703,1080 c 0,-9.3888 48.35324,-17 108,-17 59.64676,0 108,7.6112 108,17 0,9.3888 -48.35324,17 -108,17 -59.64676,0 -108,-7.6112 -108,-17 z"
+         opacity="0.2"
+         id="path842" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g848">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 696,1073 c 0,-9.3888 48.35324,-17 108,-17 59.64676,0 108,7.6112 108,17 0,9.3888 -48.35324,17 -108,17 -59.64676,0 -108,-7.6112 -108,-17 z"
+         id="path846" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g852">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 696,1073 c 0,-9.3888 48.35324,-17 108,-17 59.64676,0 108,7.6112 108,17 0,9.3888 -48.35324,17 -108,17 -59.64676,0 -108,-7.6112 -108,-17 z"
+         stroke-miterlimit="10"
+         id="path850" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g860">
+      <g
+         id="g858">
+        <path
+           fill="none"
+           stroke="none"
+           id="path854"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="750.17188"
+           y="1080"
+           id="text856"
+           style="text-decoration:none;text-decoration-line:none">manage all musics</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g864">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 695,1176 c 0,-9.3888 42.98066,-17 96,-17 53.01934,0 96,7.6112 96,17 0,9.3888 -42.98066,17 -96,17 -53.01934,0 -96,-7.6112 -96,-17 z"
+         opacity="0.2"
+         id="path862" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g868">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 688,1169 c 0,-9.3888 42.98066,-17 96,-17 53.01934,0 96,7.6112 96,17 0,9.3888 -42.98066,17 -96,17 -53.01934,0 -96,-7.6112 -96,-17 z"
+         id="path866" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g872">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 688,1169 c 0,-9.3888 42.98066,-17 96,-17 53.01934,0 96,7.6112 96,17 0,9.3888 -42.98066,17 -96,17 -53.01934,0 -96,-7.6112 -96,-17 z"
+         stroke-miterlimit="10"
+         id="path870" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g880">
+      <g
+         id="g878">
+        <path
+           fill="none"
+           stroke="none"
+           id="path874"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="724.75098"
+           y="1176"
+           id="text876"
+           style="text-decoration:none;text-decoration-line:none">manage own musics</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g884">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 354,432 158,56 155,-53"
+         stroke-miterlimit="10"
+         id="path882" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g888">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 344,464 226,591"
+         stroke-miterlimit="10"
+         id="path886" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g892">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 519,1080 c 0,-9.3888 29.10149,-17 65,-17 35.89851,0 65,7.6112 65,17 0,9.3888 -29.10149,17 -65,17 -35.89851,0 -65,-7.6112 -65,-17 z"
+         opacity="0.2"
+         id="path890" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g896">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 512,1073 c 0,-9.3888 29.10149,-17 65,-17 35.89851,0 65,7.6112 65,17 0,9.3888 -29.10149,17 -65,17 -35.89851,0 -65,-7.6112 -65,-17 z"
+         id="path894" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g900">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 512,1073 c 0,-9.3888 29.10149,-17 65,-17 35.89851,0 65,7.6112 65,17 0,9.3888 -29.10149,17 -65,17 -35.89851,0 -65,-7.6112 -65,-17 z"
+         stroke-miterlimit="10"
+         id="path898" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g908">
+      <g
+         id="g906">
+        <path
+           fill="none"
+           stroke="none"
+           id="path902"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="538.71094"
+           y="1080"
+           id="text904"
+           style="text-decoration:none;text-decoration-line:none">search music</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g912">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 567,1024 c 0,-9.3888 38.95122,-17 87,-17 48.04878,0 87,7.6112 87,17 0,9.3888 -38.95122,17 -87,17 -48.04878,0 -87,-7.6112 -87,-17 z"
+         opacity="0.2"
+         id="path910" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g916">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 560,1017 c 0,-9.3888 38.95122,-17 87,-17 48.04878,0 87,7.6112 87,17 0,9.3888 -38.95122,17 -87,17 -48.04878,0 -87,-7.6112 -87,-17 z"
+         id="path914" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g920">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 560,1017 c 0,-9.3888 38.95122,-17 87,-17 48.04878,0 87,7.6112 87,17 0,9.3888 -38.95122,17 -87,17 -48.04878,0 -87,-7.6112 -87,-17 z"
+         stroke-miterlimit="10"
+         id="path918" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g928">
+      <g
+         id="g926">
+        <path
+           fill="none"
+           stroke="none"
+           id="path922"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="594.62549"
+           y="1024"
+           id="text924"
+           style="text-decoration:none;text-decoration-line:none">rate or like musics</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g932">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 350,464 637,999"
+         stroke-miterlimit="10"
+         id="path930" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g936">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 354,462 673,935"
+         stroke-miterlimit="10"
+         id="path934" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g940">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 329,1103 328,464"
+         stroke-miterlimit="10"
+         id="path938" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g944">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="M 336.45083,484.31215 328,464 l -8.38722,20.3385"
+         id="path942" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g948">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 336.45083,484.31215 328,464 l -8.38722,20.3385 16.83805,-0.0264"
+         stroke-miterlimit="10"
+         id="path946" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g952">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 631,964 c 0,-11.59798 28.87763,-21 64.5,-21 35.62237,0 64.5,9.40202 64.5,21 0,11.59798 -28.87763,21 -64.5,21 -35.62237,0 -64.5,-9.40202 -64.5,-21 z"
+         opacity="0.2"
+         id="path950" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g956">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 624,957 c 0,-11.59798 28.87763,-21 64.5,-21 35.62237,0 64.5,9.40202 64.5,21 0,11.59798 -28.87763,21 -64.5,21 -35.62237,0 -64.5,-9.40202 -64.5,-21 z"
+         id="path954" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g960">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 624,957 c 0,-11.59798 28.87763,-21 64.5,-21 35.62237,0 64.5,9.40202 64.5,21 0,11.59798 -28.87763,21 -64.5,21 -35.62237,0 -64.5,-9.40202 -64.5,-21 z"
+         stroke-miterlimit="10"
+         id="path958" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g968">
+      <g
+         id="g966">
+        <path
+           fill="none"
+           stroke="none"
+           id="path962"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="651.29639"
+           y="964"
+           id="text964"
+           style="text-decoration:none;text-decoration-line:none">listen musics</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g972">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 647,424 c 0,-9.38884 36.04107,-17 80.5,-17 44.45893,0 80.5,7.61116 80.5,17 0,9.38884 -36.04107,17 -80.5,17 -44.45893,0 -80.5,-7.61116 -80.5,-17 z"
+         opacity="0.2"
+         id="path970" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g976">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 640,417 c 0,-9.38884 36.04107,-17 80.5,-17 44.45893,0 80.5,7.61116 80.5,17 0,9.38884 -36.04107,17 -80.5,17 -44.45893,0 -80.5,-7.61116 -80.5,-17 z"
+         id="path974" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g980">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 640,417 c 0,-9.38884 36.04107,-17 80.5,-17 44.45893,0 80.5,7.61116 80.5,17 0,9.38884 -36.04107,17 -80.5,17 -44.45893,0 -80.5,-7.61116 -80.5,-17 z"
+         stroke-miterlimit="10"
+         id="path978" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g988">
+      <g
+         id="g986">
+        <path
+           fill="none"
+           stroke="none"
+           id="path982"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="680.7605"
+           y="424"
+           id="text984"
+           style="text-decoration:none;text-decoration-line:none">create playlist</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g992">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 687,592 c 0,-9.38884 28.87763,-17 64.5,-17 35.62237,0 64.5,7.61116 64.5,17 0,9.38884 -28.87763,17 -64.5,17 -35.62237,0 -64.5,-7.61116 -64.5,-17 z"
+         opacity="0.2"
+         id="path990" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g996">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 680,585 c 0,-9.38884 28.87763,-17 64.5,-17 35.62237,0 64.5,7.61116 64.5,17 0,9.38884 -28.87763,17 -64.5,17 -35.62237,0 -64.5,-7.61116 -64.5,-17 z"
+         id="path994" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1000">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 680,585 c 0,-9.38884 28.87763,-17 64.5,-17 35.62237,0 64.5,7.61116 64.5,17 0,9.38884 -28.87763,17 -64.5,17 -35.62237,0 -64.5,-7.61116 -64.5,-17 z"
+         stroke-miterlimit="10"
+         id="path998" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1008">
+      <g
+         id="g1006">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1002"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="707.65186"
+           y="592"
+           id="text1004"
+           style="text-decoration:none;text-decoration-line:none">listen playlist</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1012">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 354,432 158,56 189,79"
+         stroke-miterlimit="10"
+         id="path1010" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1016">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 354,432 158,56 184,151"
+         stroke-miterlimit="10"
+         id="path1014" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1020">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 355,1149 246,58"
+         stroke-miterlimit="10"
+         id="path1018" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1024">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 354,448 711,791"
+         stroke-miterlimit="10"
+         id="path1022" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1028">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 599,1232 c 0,-9.3888 38.50351,-17 86,-17 47.49649,0 86,7.6112 86,17 0,9.3888 -38.50351,17 -86,17 -47.49649,0 -86,-7.6112 -86,-17 z"
+         opacity="0.2"
+         id="path1026" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1032">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 592,1225 c 0,-9.3888 38.50351,-17 86,-17 47.49649,0 86,7.6112 86,17 0,9.3888 -38.50351,17 -86,17 -47.49649,0 -86,-7.6112 -86,-17 z"
+         id="path1030" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1036">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 592,1225 c 0,-9.3888 38.50351,-17 86,-17 47.49649,0 86,7.6112 86,17 0,9.3888 -38.50351,17 -86,17 -47.49649,0 -86,-7.6112 -86,-17 z"
+         stroke-miterlimit="10"
+         id="path1034" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1044">
+      <g
+         id="g1042">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1038"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="625.98096"
+           y="1232"
+           id="text1040"
+           style="text-decoration:none;text-decoration-line:none">share own musics</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1048">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 671,472 c 0,-9.38884 29.99692,-17 67,-17 37.00308,0 67,7.61116 67,17 0,9.38884 -29.99692,17 -67,17 -37.00308,0 -67,-7.61116 -67,-17 z"
+         opacity="0.2"
+         id="path1046" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1052">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 664,465 c 0,-9.38884 29.99692,-17 67,-17 37.00308,0 67,7.61116 67,17 0,9.38884 -29.99692,17 -67,17 -37.00308,0 -67,-7.61116 -67,-17 z"
+         id="path1050" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1056">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 664,465 c 0,-9.38884 29.99692,-17 67,-17 37.00308,0 67,7.61116 67,17 0,9.38884 -29.99692,17 -67,17 -37.00308,0 -67,-7.61116 -67,-17 z"
+         stroke-miterlimit="10"
+         id="path1054" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1064">
+      <g
+         id="g1062">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1058"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="691.61597"
+           y="472"
+           id="text1060"
+           style="text-decoration:none;text-decoration-line:none">delete playlist</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1068">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 663,816 c 0,-9.38884 33.35478,-17 74.5,-17 41.14522,0 74.5,7.61116 74.5,17 0,9.38884 -33.35478,17 -74.5,17 -41.14522,0 -74.5,-7.61116 -74.5,-17 z"
+         opacity="0.2"
+         id="path1066" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1072">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 656,809 c 0,-9.38884 33.35478,-17 74.5,-17 41.14522,0 74.5,7.61116 74.5,17 0,9.38884 -33.35478,17 -74.5,17 -41.14522,0 -74.5,-7.61116 -74.5,-17 z"
+         id="path1070" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1076">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 656,809 c 0,-9.38884 33.35478,-17 74.5,-17 41.14522,0 74.5,7.61116 74.5,17 0,9.38884 -33.35478,17 -74.5,17 -41.14522,0 -74.5,-7.61116 -74.5,-17 z"
+         stroke-miterlimit="10"
+         id="path1074" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1084">
+      <g
+         id="g1082">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1078"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="685.69507"
+           y="816"
+           id="text1080"
+           style="text-decoration:none;text-decoration-line:none">manage friends</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1088">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 655,664 c 0,-9.38884 31.34006,-17 70,-17 38.65994,0 70,7.61116 70,17 0,9.38884 -31.34006,17 -70,17 -38.65994,0 -70,-7.61116 -70,-17 z"
+         opacity="0.2"
+         id="path1086" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1092">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 648,657 c 0,-9.38884 31.34006,-17 70,-17 38.65994,0 70,7.61116 70,17 0,9.38884 -31.34006,17 -70,17 -38.65994,0 -70,-7.61116 -70,-17 z"
+         id="path1090" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1096">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 648,657 c 0,-9.38884 31.34006,-17 70,-17 38.65994,0 70,7.61116 70,17 0,9.38884 -31.34006,17 -70,17 -38.65994,0 -70,-7.61116 -70,-17 z"
+         stroke-miterlimit="10"
+         id="path1094" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1104">
+      <g
+         id="g1102">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1098"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="680.06641"
+           y="664"
+           id="text1100"
+           style="text-decoration:none;text-decoration-line:none">share playlist</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1108">
+      <path
+         fill="#c0c0c0"
+         stroke="none"
+         d="m 639,528 c 0,-9.38884 43.42837,-17 97,-17 53.57163,0 97,7.61116 97,17 0,9.38884 -43.42837,17 -97,17 -53.57163,0 -97,-7.61116 -97,-17 z"
+         opacity="0.2"
+         id="path1106" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1112">
+      <path
+         fill="#ffffff"
+         stroke="none"
+         d="m 632,521 c 0,-9.38884 43.42837,-17 97,-17 53.57163,0 97,7.61116 97,17 0,9.38884 -43.42837,17 -97,17 -53.57163,0 -97,-7.61116 -97,-17 z"
+         id="path1110" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1116">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 632,521 c 0,-9.38884 43.42837,-17 97,-17 53.57163,0 97,7.61116 97,17 0,9.38884 -43.42837,17 -97,17 -53.57163,0 -97,-7.61116 -97,-17 z"
+         stroke-miterlimit="10"
+         id="path1114" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1124">
+      <g
+         id="g1122">
+        <path
+           fill="none"
+           stroke="none"
+           id="path1118"
+           d="" />
+        <text
+           fill="#000000"
+           stroke="none"
+           font-family="Arial"
+           font-size="13px"
+           font-style="normal"
+           font-weight="bold"
+           text-decoration="none"
+           x="670.47461"
+           y="528"
+           id="text1120"
+           style="text-decoration:none;text-decoration-line:none">add music to playlist</text>
+      </g>
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1128">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 354,432 159,56 150,-16"
+         stroke-miterlimit="10"
+         id="path1126" />
+    </g>
+    <g
+       transform="translate(-293,2)"
+       id="g1132">
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 354,432 158,56 119,18"
+         stroke-miterlimit="10"
+         id="path1130" />
+    </g>
+  </g>
+</svg>

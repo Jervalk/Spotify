@@ -1,0 +1,346 @@
+
+body {
+    margin: 0;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+#container {
+    display: grid;
+    height: calc(100vh - 3px);
+    grid-template-columns: 241px auto;
+    grid-template-rows: auto 90px;
+    grid-template-areas: 
+    'menu main'
+    'controls controls';
+    background-color: #1f1f1f;
+    color: white;
+}
+
+
+
+/* MENU **********************************************************************/
+
+#menu {
+    grid-area: menu;
+    background-color: black;
+}
+
+.menu-title {
+    padding: 20px;
+    font-size: xx-large;
+    font-weight: bolder;
+}
+
+.menu-items {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-item {
+    margin: 0px 5px;
+    padding: 10px;
+    border-radius: 3px;
+}
+
+.menu-item.selected {
+    opacity: 1;
+    background-color: #1f1f1f;
+}
+
+
+
+/* MAIN **********************************************************************/
+
+#main {
+    grid-area: main;
+    margin: 20px;
+    margin-right: 0;
+    overflow-y: auto;
+}
+
+
+#main .content {
+    display: flex;
+    overflow: hidden;
+}
+#main .content.grid {
+    flex-wrap: wrap;
+    height: 167px;
+}
+#main .content.list {
+    flex-direction: column;
+}
+
+
+#main .song {
+    position: relative;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    background-color:#292929;
+    border-radius: 5px;
+    transition: background-color .3s;
+}
+#main .grid .song {
+    flex-direction: column;
+    width: 132px;
+    margin-right: 10px;
+}
+#main .list .song {
+    padding: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: inherit;
+    justify-content: stretch;
+}
+#main .song:hover {
+    background-color:#3a3a3a;
+    transition: background-color .3s;
+}
+
+
+#main .song .song-cover {
+    object-fit: cover;
+}
+#main .grid .song .song-cover {
+    width: 112px;
+    height: 112px;
+    border-radius: 10px;
+}
+#main .list .song .song-cover {
+    width: 32px;
+    height: 32px;
+    margin: 0 5px;
+}
+
+
+#main .list .song .song-description {
+    flex-grow: 1;
+    flex-basis: 40%;
+    line-height: 1;
+}
+
+
+#main .song .song-title {
+    font-size: small;
+    font-weight: bold;
+    width: 100%;
+    margin: 0;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#main .grid .song .song-title {
+    text-align: center;
+    margin-top: 5px;
+}
+#main .list .song .song-title {
+    opacity: 1;
+}
+
+
+#main .song .song-artist {
+    font-size: x-small;
+    margin: 0;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+#main .grid .song .song-artist {
+    text-align: center;
+}
+
+
+#main .grid .song .queue-insert-play, #main .grid .song .queue-add {
+    position: absolute;
+    display: block;
+    width: 36px;
+    height:36px;
+    top: 80px;
+    right: 25px;
+    font-size: 0;
+    color: green;
+    background-color: transparent;
+    opacity: 1;
+    transition: font-size .3s, background-color .25s;
+    border-radius: 50%;
+}
+#main .grid .song .queue-add {
+    right: 65px;
+}
+#main .grid .song:hover .queue-insert-play, #main .grid .song:hover .queue-add {
+    font-size: xx-large;
+    background-color: white;
+    transition: font-size .3s, background-color .35s;
+}
+#main .list .song .queue-play, #main .list .song .queue-remove {
+    margin: 0 2px;
+    visibility: hidden;
+}
+#main .list .song:hover .queue-play, #main .list .song:hover .queue-remove {
+    visibility: visible;
+}
+
+#main .list .song .song-number, #main .list .song .song-album, #main .list .song .song-duration {
+    margin: 0 5px;
+    font-size: small;
+    opacity: .7;
+}
+#main .list .song .song-album:hover {
+    opacity: 1;
+    text-decoration: underline;
+}
+
+
+#queue {
+    display: none;
+}
+
+#queue .queue-drop-position {
+    height: 0;
+    border: 1px dashed transparent;
+    /* transition: height .2s; */
+    transition: border .2s;
+}
+#queue .queue-drop-position.active {
+    /* height: 42px; */
+    border: 1px dashed grey;
+    /* border-radius: 5px; */
+    transition: border .2s;
+}
+
+/* CONTROLS ******************************************************************/
+
+#controls {
+    grid-area: controls;
+    border-top: 1px solid rgb(40, 40, 40);
+    display: grid;
+    grid-template-columns: 300px auto 300px;
+    grid-template-rows: 2fr 1fr;
+    grid-template-areas: 
+    'song buttons menu'
+    'song progress menu';
+}
+
+
+#controls .song {
+    grid-area: song;
+    display: flex;
+    align-items: center;
+    justify-content: stretch;
+    padding: 20px;
+}
+#controls .song .song-cover {
+    /* opacity: 1;
+}
+#controls .song .song-cover img { */
+    width: 56px;
+    height: 56px;
+    object-fit: cover;
+    opacity: 1;
+}
+#controls .song .song-description {
+    margin-left: 5px;
+    margin-right: 5px;
+    flex-grow: 1;
+}
+#controls .song .song-title {
+    display: block;
+    font-size: small;
+    font-weight: bold;
+    margin: 0;
+    opacity: 1;
+}
+#controls .song .song-artist {
+    display: block;
+    font-size: x-small;
+    margin: 0;
+}
+
+
+#controls-progress {
+    grid-area: progress;
+}
+#controls-progress > audio {
+    width: 100%;
+}
+
+#controls-progress > input {
+    width: 80%;
+    display: block;
+    margin: 0 auto;
+}
+
+
+#controls-buttons {
+    grid-area: buttons;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#controls-buttons > * {
+    margin: 0px 10px;
+}
+
+
+#controls-menu {
+    grid-area: menu;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#controls-menu > * {
+    margin-right: 5px;
+}
+#controls-menu > input {
+    font-size: x-small;
+}
+
+
+
+
+/* MISCELLANEOUS *************************************************************/
+
+button, a {
+    /* opacity: .7; */
+    font-size: 100%;
+    font-family: inherit;
+    border: 0;
+    padding: 0;
+    color: inherit;
+    background-color: inherit;
+    transition: opacity .3s;
+}
+
+button:hover, a:hover {
+    opacity: 1;
+    transition: opacity .3s;
+}
+
+.big {
+    font-size: xxx-large;
+}
+
+a, a:visited {
+    color: inherit;
+    text-decoration: none;
+}
+
+:not(#menu) a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+#templates {
+    display: none;
+}
+
+
+form .error {
+	color: red;
+}

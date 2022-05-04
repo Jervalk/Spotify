@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC
+		"-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+		"http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
+        <property name="hibernate.dialect">org.hibernate.dialect.MySQL57Dialect</property>
+        <property name="show_sql">true</property>
+        <property name="hibernate.hbm2ddl.auto">update</property>
+        <mapping class="fr.spotify_en_mieux_core.models.Album"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.Artist"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.AuthoredContent"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.Content"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.Group"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.Listening"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.Music"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.Playlist"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.Style"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.User"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.UserListener"></mapping>
+        <mapping class="fr.spotify_en_mieux_core.models.UserProducer"></mapping>
+    </session-factory>
+</hibernate-configuration>

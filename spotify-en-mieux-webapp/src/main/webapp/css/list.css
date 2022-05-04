@@ -1,0 +1,48 @@
+
+
+#main .list {
+	display: flex;
+	flex-direction: column;
+	margin: 0 10px;
+}
+
+#main .list .item {
+	display: flex;
+	justify-content: stretch;
+	padding: 10px 0;
+}
+
+#main .list .item img {
+    width: 32px;
+    height: 32px;
+    object-fit: cover;
+}
+
+#main .list .item:nth-child(2n) {
+    background-color: black;
+}
+
+#main .list .item > :not(.user-actions) {
+	flex-basis: 30%;
+	flex-grow: 1;
+}
+
+#main .list .item a[href^="users/delete"].clicked {
+	color: red;
+}
+
+
+#main a[href*="add"] {
+	background-color: royalblue;
+	position: fixed;
+	bottom: 100px;
+	right: 100px;
+	border-radius: 50%;
+    font-size: x-large;
+    padding: 6px 8px;
+    text-decoration: none;
+}
+#main a[href*="add"] i {
+	display: block;
+	margin: auto;
+}

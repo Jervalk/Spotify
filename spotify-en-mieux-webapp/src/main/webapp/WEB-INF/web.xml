@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app version="4.0"
+	xmlns="http://xmlns.jcp.org/xml/ns/javaee"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee 
+   http://xmlns.jcp.org/xml/ns/javaee/web-app_4_0.xsd">
+   
+	<display-name>Archetype Created Web Application</display-name>
+	<jsp-config>
+		<jsp-property-group>
+			<url-pattern>/WEB-INF/jsp/pages/*</url-pattern>
+			<include-prelude>/WEB-INF/jsp/fragments/prelude.jsp</include-prelude>
+			<include-coda>/WEB-INF/jsp/fragments/coda.jsp</include-coda>
+		</jsp-property-group>
+	</jsp-config>
+</web-app>
